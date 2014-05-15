@@ -24,6 +24,6 @@ You may then login to the guest VM with the following command
 
     vagrant ssh
 
-If you uncommented `vb.gue = true` in `Vagrantfile`, you may also login through the console of the guest VM (default username/password: vagrant/vagrant).
+If you uncommented `vb.gui = true` in `Vagrantfile`, you may also login through the console of the guest VM (default username/password: vagrant/vagrant).
 
 Copyright 2014, [Gianpaolo Macario](http://gmacario.github.io/)
