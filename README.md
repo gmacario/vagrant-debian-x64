@@ -10,7 +10,9 @@ Prerequisites
 
 * [Vagrant](http://www.vagrantup.com/) - tested with version 1.6.2
 * One virtualization solution - tested with [VirtualBox](https://www.virtualbox.org/) 1.3.10
-* One host OS supported by Vagrant - tested with [MS Windows 7 64-bit](http://windows.microsoft.com/)
+* One host OS supported by Vagrant - tested with
+    * [MS Windows 7 64-bit](http://windows.microsoft.com/)
+    * [OS X v10.9.4](https://www.apple.com/osx/) (Maverick)
 * At least 4 GB RAM
 * About 20 GB free disk space where the VM will run
 * A fast Internet connection
