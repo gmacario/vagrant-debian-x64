@@ -20,6 +20,8 @@ Prerequisites
 Step-by-step instructions
 -------------------------
 
+First, clone this repository onto the same machine with your VirtualBox installation.
+
 Create the guest VM with the following command:
 
     $ vagrant up
