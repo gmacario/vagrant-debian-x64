@@ -1,6 +1,8 @@
 vagrant-debian-x64
 ==================
 
+[![PullReview stats](https://www.pullreview.com/github/gmacario/vagrant-debian-x64/badges/master.svg?)](https://www.pullreview.com/github/gmacario/vagrant-debian-x64/reviews/master)
+
 This is a simple Vagrant project to run a VM with [Debian](http://www.debian.org/).
 
 Copyright 2014, [Gianpaolo Macario](http://gmacario.github.io/).
